@@ -1,5 +1,12 @@
 #  About Me:
- Hi, I’m Ahmad Luqman — a passionate developer from Islamabad, Pakistan, building real-world applications and tools across Python, TypeScript, C++, and machine learning.<br>I enjoy solving practical problems and turning ideas into working code. My GitHub showcases a mix of projects in data analysis, computer vision, backend development, and user-friendly tooling — from dashboards to automation scripts and small full-stack apps.
+
+## Hi, I'm Ahmad Luqman 👋
+ 
+**Data Science graduate (BS, FAST–NUCES) · Machine Learning · NLP · Computer Vision** 
+I like taking problems from raw, messy data all the way to something people can actually use — a model, a pipeline, or a dashboard that answers a real question. Most of what I learn ends up here as a project.
+ 
+📍 Islamabad, Pakistan  
+📫 ahmadluqman205@gmail.com
 
 
 ## Socials:
