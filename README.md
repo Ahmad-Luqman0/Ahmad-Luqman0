@@ -1,6 +1,6 @@
 #  About Me:
 
-## Hi, I'm Ahmad Luqman 👋
+## Hi, I'm Ahmad Luqman 
  
 **Data Science graduate (BS, FAST–NUCES) · Machine Learning · NLP · Computer Vision** 
 I like taking problems from raw, messy data all the way to something people can actually use — a model, a pipeline, or a dashboard that answers a real question. Most of what I learn ends up here as a project.
